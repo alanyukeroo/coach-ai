@@ -1,7 +1,7 @@
 # SPEC.md — Negotiation Coach
 
 **Developer:** Cidney Ho
-**Agreed Development Fee:** _[TBD — pending agreement]_ GIX Bucks
+**Agreed Development Fee:** 30 GIX Bucks
 
 ---
 
