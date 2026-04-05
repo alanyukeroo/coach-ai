@@ -29,7 +29,7 @@ Most people lose negotiations not because they lack knowledge, but because press
 ## Developer
 
 **Cidney Ho**
-Agreed fee: _[TBD]_ GIX Bucks
+Agreed fee: 40 GIX Bucks
 
 ---
 
@@ -49,9 +49,9 @@ Agreed fee: _[TBD]_ GIX Bucks
 ## Tech Stack
 
 - Frontend: Next.js
-- Backend/DB: Supabase
-- Transcription: Web Speech API / Whisper API
-- AI Coaching: OpenAI GPT-4 / Gemini
+- Backend/DB: Firebase/Supabase
+- Transcription: Microsoft Speech to Text (Diarized) 
+- AI Coaching: Gemini Flash 2.5
 - Deployment: Vercel
 
 ---
