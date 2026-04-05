@@ -29,7 +29,7 @@ Most people lose negotiations not because they lack knowledge, but because press
 ## Developer
 
 **Cidney Ho**
-Agreed fee: 40 GIX Bucks
+Agreed fee: 30 GIX Bucks
 
 ---
 
