@@ -47,7 +47,7 @@ A mobile-friendly web app that acts as a real-time AI negotiation coach. It list
 
 ## Tech Stack
 
-Negotiable — open to developer's recommendation. Suggested: **Next.js + Supabase**, Whisper API or Web Speech API for transcription, OpenAI GPT-4 or Gemini for coaching logic.
+Negotiable — open to developer's recommendation. Suggested: **Next.js + Supabase/Firebase**, Microsoft diarized speech to text  (we can get free access as student) for transcription, Gemini Flash 2.5 AI Live text to speech for coaching logic.
 
 ---
 
